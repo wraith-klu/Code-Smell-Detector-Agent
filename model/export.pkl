@@ -1,1 +1,3 @@
-"dummy model" 
+version https://git-lfs.github.com/spec/v1
+oid sha256:a240ed92d1e31506ea0aababbad3e4a26035f97212b5db7cc2817d6306883470
+size 16
